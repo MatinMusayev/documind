@@ -2,7 +2,7 @@
 
 > Upload documents. Ask anything. Get cited answers powered by RAG + AI agents.
 
-[![CI](https://github.com/YOUR_USERNAME/documind/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/documind/actions)
+[![CI](https://github.com/MatinMusayev/documind/actions/workflows/ci.yml/badge.svg)](https://github.com/MatinMusayev/documind/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)](https://fastapi.tiangolo.com)
 [![LangChain](https://img.shields.io/badge/LangChain-0.2-purple)](https://langchain.com)
